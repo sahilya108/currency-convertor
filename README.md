@@ -26,4 +26,4 @@ A simple and responsive **Currency Converter** web application that allows users
 ## 🌐 Live Demo
 
 👉 **View Live Demo:**  
-https://sahilya108.github.io/currency-convertor
+https://sahilya108.github.io/currency-converter/
